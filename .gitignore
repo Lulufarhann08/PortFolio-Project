@@ -1,0 +1,6 @@
+portenv
+db.sqlite3
+portfolioapp/__pycache__
+Portfolio/__pycache__
+*.py[cod]
+portfolioapp/migrations/__pycache__
